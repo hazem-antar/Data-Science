@@ -1,1 +1,4 @@
 # Data-Science
+
+This project discusses the analysis, visualization, and development of different types of machine learning algorithms on a small-sized dataset of Penguins. In the first part, the used dataset will be wrangled and cleaned from null, duplicated, and outliers values. Then, every feature in the dataset will be explored thoroughly and the correlation between different features will help unfold even the tiniest details. Using the current knowledge, some features might need to be disposed of before moving on to the next phase.
+In the second part, two different clustering Machine Learning (ML) algorithms will be developed to discover the building structure of the dataset (different penguins' species, gender, and where they live) only by analyzing measurable features. Lastly, in the third part, three different classification machine learning algorithms will be trained to preciously predict the type of penguin species given all other features in the dataset.
